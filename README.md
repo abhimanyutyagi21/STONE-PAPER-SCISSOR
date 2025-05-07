@@ -1,1 +1,2 @@
 # STONE-PAPER-SCISSOR
+This is a simple command-line game of Rock, Paper, Scissors built in Python, enhanced with emojis for a more engaging experience. The user is prompted to choose rock (r), paper (p), or scissors (s). The computer randomly selects one of the three options. After both choices are revealed with corresponding emojis, the game compares them and announces whether the user wins, loses, or it's a tie. Invalid inputs are flagged with an error message.
